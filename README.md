@@ -40,15 +40,14 @@ Make sure you have Flutter installed on your machine. You can follow the instruc
  ```bash
 Copy
         flutter pub get
----
-and        
+        
 ```bash
 Copy 
           flutter run
----
+
 You can find the packages in the pubspec.yaml file of your project.
 
-Project Structure
+### Project Structure
 
 ```shell  
 Copy
