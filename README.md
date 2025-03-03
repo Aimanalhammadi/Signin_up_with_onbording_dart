@@ -51,6 +51,16 @@ flutter run
 You can find the packages in the pubspec.yaml file of your project.
 
 Project Structure
+- **android/**: Contains the Android-specific code and configurations.
+- **ios/**: Contains the iOS-specific code and configurations.
+- **lib/**: Main directory for Dart code.
+  - **assets/**: Contains asset files such as images and fonts.
+  - **models/**: Contains data models used in the application.
+  - **screens/**: Contains different screens (pages) of the app.
+  - **widgets/**: Contains reusable widgets.
+  - **main.dart**: The entry point of the Flutter application.
+- **test/**: Contains unit and widget tests.
+- **pubspec.yaml**: Contains metadata about the project and its dependencies.
 Copy
 your_flutter_project/
 │
@@ -75,13 +85,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Acknowledgments
 Inspiration, code snippets, etc.
-
-
-
-A few resources to get you started if this is your first Flutter project:
-
-
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
