@@ -34,38 +34,29 @@ Make sure you have Flutter installed on your machine. You can follow the instruc
 
 2.Install the required packages:
 ### Dependencies
-
 ---
-
 - `google_fonts:`
-- `trufflehog`
 
-bash
+ ```bash
 Copy
-flutter pub get
-Run the application:
-bash
-Copy
-flutter run
-
+        flutter pub get
+---
+and        
+```bash
+Copy 
+          flutter run
+---
 You can find the packages in the pubspec.yaml file of your project.
 
 Project Structure
-- **android/**: Contains the Android-specific code and configurations.
-- **ios/**: Contains the iOS-specific code and configurations.
-- **lib/**: Main directory for Dart code.
-  - **assets/**: Contains asset files such as images and fonts.
-  - **models/**: Contains data models used in the application.
-  - **screens/**: Contains different screens (pages) of the app.
-  - **widgets/**: Contains reusable widgets.
-  - **main.dart**: The entry point of the Flutter application.
-- **test/**: Contains unit and widget tests.
-- **pubspec.yaml**: Contains metadata about the project and its dependencies.
+
+```shell  
 Copy
 your_flutter_project/
 │
 ├── android/
 ├── ios/
+├── images/
 ├── lib/
 │   ├── assets/
 │   ├── models/
@@ -75,7 +66,7 @@ your_flutter_project/
 │
 ├── test/
 └── pubspec.yaml
-
+```
 
 ###Contributing
 If you'd like to contribute to this project, please fork the repository and submit a pull request.
