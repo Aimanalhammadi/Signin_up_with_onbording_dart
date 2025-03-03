@@ -64,13 +64,14 @@ your_flutter_project/
 │
 ├── test/
 └── pubspec.yaml
+
 ```
 
-###Contributing
+### Contributing
 If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
-###License
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+### Acknowledgments
 Inspiration, code snippets, etc.
