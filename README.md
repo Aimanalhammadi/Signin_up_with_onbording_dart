@@ -37,13 +37,12 @@ Make sure you have Flutter installed on your machine. You can follow the instruc
 ---
 - `google_fonts:`
 
- ```bash
+
 Copy
+ bash
         flutter pub get
-        
-```bash
-Copy 
-          flutter run
+      ---  
+         flutter run
 
 You can find the packages in the pubspec.yaml file of your project.
 
