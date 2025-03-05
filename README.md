@@ -29,8 +29,8 @@ Make sure you have Flutter installed on your machine. You can follow the instruc
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your_project_name.git
-   cd your_project_name
+   git clone https://github.com/Aimanalhammadi/Signin_up_with_onbording_dart.git
+   cd Signin_up_with_onbording_dart
 
 2.Install the required packages:
 ### Dependencies
