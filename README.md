@@ -17,8 +17,8 @@
      <img src="images/screenshot3.png" alt="Feature 3" width="150" />
      <img src="images/screenshot4.png" alt="Feature 3" width="150" />
      <img src="images/screenshot5.png" alt="Feature 3" width="150" />
-    <img src="images/screenshot2.png" alt="Feature 1" width="150" />
-    <img src="images/screenshot1.png" alt="Feature 2" width="150" />
+    <img src="images/screenshot1.png" alt="Feature 1" width="150" />
+    <img src="images/screenshot2.png" alt="Feature 2" width="150" />
    
 </div>
 
