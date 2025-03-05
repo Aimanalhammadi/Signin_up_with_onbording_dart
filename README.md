@@ -14,9 +14,12 @@
 ### Example: Feature Overview
 
 <div style="display: flex; justify-content: space-around;">
+     <img src="images/screenshot3.png" alt="Feature 3" width="200" />
+     <img src="images/screenshot4.png" alt="Feature 3" width="200" />
+     <img src="images/screenshot5.png" alt="Feature 3" width="200" />
     <img src="images/screenshot2.png" alt="Feature 1" width="200" />
     <img src="images/screenshot1.png" alt="Feature 2" width="200" />
-   // <img src="screenshot3.png" alt="Feature 3" width="200" />
+   
 </div>
 
 ## Getting Started
@@ -39,7 +42,7 @@ Make sure you have Flutter installed on your machine. You can follow the instruc
 
 
 Copy
- bash
+ ```bash
         flutter pub get
       ---  
          flutter run
